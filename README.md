@@ -2,7 +2,7 @@
 
 ## Info
 
-Web page: [Github Pages](https://lexst64.github.io/cv)
+Web page: [Github Pages](https://lexst64.github.io/cv/)
 
 ## Credits
 
